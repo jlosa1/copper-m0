@@ -15,7 +15,7 @@ export default function Home() {
           data-testid="week-0-line"
           className="bg-secondary text-secondary-foreground rounded-lg px-4 py-2"
         >
-          Week 0 check-in: Hello from Copper State Labs!
+          Week 0 check-in: Hi, I&apos;m Jaden and I&apos;m looking forward to developing business solutions with AI.
         </p>
       </main>
       <SiteFooter />
